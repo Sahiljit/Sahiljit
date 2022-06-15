@@ -35,7 +35,7 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 
 
 
-<h4 align="left">Me and My Stack - </h4> 
+<h4 align="left">My Stack (and me)- </h4> 
 <table width = "1200">
 <td width= "400">
 <ul>
