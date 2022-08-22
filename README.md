@@ -1,18 +1,13 @@
 <h2 >Hello G, &nbsp; I'm Sahiljit Sandhu</h2>
 
-
 <p align = "justify"> I am a recent grad from <b>University of Delhi</b> with major in <i>Information and Technology </i>and minor in <i>Management and Economics </i>. I spend most of my time building Web apps. I have keen interest in Deep Learning and Data Science. 
 Except Coding, I love to  discuss trading ideas and charts related to financial markets or stocks. And I will always say "YES" whenever asked to play cricket or american-style eight ball pool.</p>
-
 
 <br />
 
 - 👨‍💻 Portfolio: [sahiljit.com](https://www.sahiljit.com/)
 
-
 <br />
-
-
 
 <!-- - 🔭 I’m currently working on **some web app**
 
@@ -33,23 +28,20 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 
 <br/>
 
-
-
 <h4 align="left">My Stack (and me)- </h4> 
 <table width = "1200">
 <td width= "400">
 <ul>
 <li><h5>Languages and Tools - </h5>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" alt="cpp" />      &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="24" height="24" alt="cpp" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="24" height="24"/> &nbsp;
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="24" height="24"/> &nbsp;
 
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/> &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="24" height="24"/> &nbsp;
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="24" height="24"/> &nbsp;
-
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="24" height="24"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="24" height="24"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="24" height="24"/> &nbsp;
 
 </li>
 <li><h5>Frontend - </h5>
@@ -59,7 +51,6 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="24" height="24"/>&nbsp;               
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />&nbsp;           
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="24" height="24"/> &nbsp;
- 
 
 </li>
 <li><h5>Backend -</h5>
@@ -72,7 +63,6 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
           
 </li>
 
-
 <li><h5>Data Science -</h5>
  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="24" height="24"/> &nbsp;
    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="24" height="24"/> &nbsp;
@@ -82,36 +72,14 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 </ul>
 </td>
 <td align="center" width = "450">
-<img align="center" src = "./images/profile2.png" width="350"/>
+<!-- <img align="center" src = "./images/profile2.png" width="350"/> -->
+<!-- <img align="center" src = "./images/profilephoto2.jpg" width="350"/> -->
+<img align="center" src = "./images/profilephoto2.png" width="350"/>
+
 </td>
 </tr>
 </table>
 
-
-
-
-
-
- 
-
-
-   
- 
-   
-   
-   
- 
-  
-
-   
-
-   
-
-
-
-   
-
-   
    </p>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljit&show_icons=true&locale=en&layout=compact" alt="sahiljit" /></p> -->
