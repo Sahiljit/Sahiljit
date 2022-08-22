@@ -75,7 +75,7 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 <!-- <img align="center" src = "./images/profile2.png" width="350"/> -->
 <!-- <img align="center" src = "./images/profilephoto2.jpg" width="350"/> -->
 <!-- <img align="center" src = "./images/profilephoto2.png" width="350"/> -->
-<img align="center" src = "./images/friends2.png" width="350"/>
+<img align="center" src = "./images/friends3.png" width="350"/>
 
 </td>
 </tr>
