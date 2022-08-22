@@ -28,7 +28,7 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 
 <br/>
 
-<h4 align="left">My Stack (and me)- </h4> 
+<h4 align="left">My Stack (and joey/chandler)- </h4> 
 <table width = "1200">
 <td width= "400">
 <ul>
@@ -74,7 +74,8 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 <td align="center" width = "450">
 <!-- <img align="center" src = "./images/profile2.png" width="350"/> -->
 <!-- <img align="center" src = "./images/profilephoto2.jpg" width="350"/> -->
-<img align="center" src = "./images/profilephoto2.png" width="350"/>
+<!-- <img align="center" src = "./images/profilephoto2.png" width="350"/> -->
+<img align="center" src = "./images/friends2.png" width="350"/>
 
 </td>
 </tr>
