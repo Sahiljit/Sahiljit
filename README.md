@@ -28,7 +28,7 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 
 <br/>
 
-<h4 align="left">My Stack (and joey/chandler)- </h4> 
+<!-- <h4 align="left">My Stack (and joey/chandler)- </h4>
 <table width = "1200">
 <td width= "400">
 <ul>
@@ -45,22 +45,22 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 
 </li>
 <li><h5>Frontend - </h5>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="24" height="24"/>&nbsp;           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt = "css" width="24" height="24"/> &nbsp;          
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="24" height="24"/> &nbsp;    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="24" height="24"/>&nbsp;               
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />&nbsp;           
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="24" height="24"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt = "css" width="24" height="24"/> &nbsp;
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="24" height="24"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="24" height="24"/>&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="24" height="24" />&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="24" height="24"/> &nbsp;
 
 </li>
 <li><h5>Backend -</h5>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" alt ="django"/>   &nbsp;      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="24" height="24" alt = "express"/>&nbsp;          
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="24" height="24"/> &nbsp; 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" /> &nbsp;         
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24"/>&nbsp;          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="24" height="24" alt ="django"/>   &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="24" height="24" alt = "express"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="24" height="24"/> &nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="24" height="24" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24"/> &nbsp;
-          
+
 </li>
 
 <li><h5>Data Science -</h5>
@@ -75,13 +75,13 @@ Except Coding, I love to  discuss trading ideas and charts related to financial 
 <!-- <img align="center" src = "./images/profile2.png" width="350"/> -->
 <!-- <img align="center" src = "./images/profilephoto2.jpg" width="350"/> -->
 <!-- <img align="center" src = "./images/profilephoto2.png" width="350"/> -->
-<img align="center" src = "./images/friends3.png" width="350"/>
+<!-- <img align="center" src = "./images/friends3.png" width="350"/>
 
 </td>
 </tr>
 </table>
 
-   </p>
+   </p> -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljit&show_icons=true&locale=en&layout=compact" alt="sahiljit" /></p> -->
 
