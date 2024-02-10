@@ -1,7 +1,7 @@
 <h2 >Hello G, &nbsp; I'm Sahiljit Sandhu</h2>
 
-<p align = "justify"> I spend majority of my time building Web apps. I graduated from <b>University of Delhi</b> in 2022, majoring in <i>Information and Technology </i>with minors in <i>Management and Economics </i>. I have keen interest in Deep Learning and Data Science. 
-Except Coding, I love to  discuss trading ideas and charts related to financial markets or stocks. I might also bore you by talking about diet and nutrition. And I will always say "YES" whenever asked to play cricket or american-style eight ball pool.</p>
+<p align = "justify"> I spend majority of my time building Web apps. I graduated from <b>University of Delhi</b> in 2022, majoring in <i>Information and Technology</i> with minors in <i>Management and Economics</i>. I have keen interest in Deep Learning and Data Science. 
+Except Coding, I love to discuss trading ideas and charts related to financial markets or stocks. I might also bore you by talking about diet and nutrition. And I will always say "YES" whenever asked to play cricket or american-style eight ball pool.</p>
 
 <br />
 
