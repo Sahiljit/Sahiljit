@@ -7,8 +7,6 @@ Except Coding, I love to discuss trading ideas and charts related to financial m
 
 
 
-<br />
-
 <!-- - 🔭 I’m currently working on **some web app**
 
 - 👨‍💻 All of my projects are available at [sahiljit.com](sahiljit.com)
