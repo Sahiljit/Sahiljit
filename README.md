@@ -5,7 +5,7 @@ Except Coding, I love to discuss trading ideas and charts related to financial m
 
 <br />
 
-- 👨‍💻 Portfolio: [sahiljit.com](https://www.sahiljit.com/)
+
 
 <br />
 
