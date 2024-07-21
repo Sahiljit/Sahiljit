@@ -1,11 +1,13 @@
 <h2 >Hello G, &nbsp; I'm Sahiljit Sandhu</h2>
 
-<p align = "justify"> I spend majority of my time building Web apps. I graduated from <b>University of Delhi</b> in 2022, majoring in <i>Information and Technology</i> with minors in <i>Management and Economics</i>. I have keen interest in Deep Learning and Data Science. 
+<p align = "justify"> I have been building web apps for over 4 years now. Before that, I have also worked in the field of Deep Learning.
 Except Coding, I love to discuss trading ideas and charts related to financial markets or stocks. I might also bore you by talking about diet and nutrition. And I will always say "YES" whenever asked to play cricket or american-style eight ball pool.</p>
 
 <br />
 
+👨‍💻 Portfolio: [sahiljit.dev](https://sahiljit.dev/)
 
+<br />
 
 <!-- - 🔭 I’m currently working on **some web app**
 
@@ -19,9 +21,9 @@ Except Coding, I love to discuss trading ideas and charts related to financial m
 
 <h4 align="left">Connect with me -</h4>
 <p align="left">
-<a href="https://twitter.com/SahiljitSandhu" target="blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="sandhu_sahiljit_twitter" height="30" width = "30" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sahiljit-sandhu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahiljit_linkedin" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/sandhu_sahiljit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandhu_sahiljit_instagram" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/SahiljitSandhu" target="_blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="sandhu_sahiljit_twitter" height="30" width = "30" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/sahiljit-sandhu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahiljit_linkedin" height="30" width="30" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/sandhu_sahiljit/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandhu_sahiljit_instagram" height="30" width="30" /></a>&nbsp;&nbsp;
 </p>
 
 <br/>
@@ -82,5 +84,3 @@ Except Coding, I love to discuss trading ideas and charts related to financial m
    </p> -->
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahiljit&show_icons=true&locale=en&layout=compact" alt="sahiljit" /></p> -->
-
-[website]: sahiljit.com
