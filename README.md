@@ -1,7 +1,7 @@
 <h2 >Hello G, &nbsp; I'm Sahiljit Sandhu</h2>
 
 <p align = "justify"> I have been building web apps for over 4 years now. Before that, I have also worked in the field of Deep Learning.
-Except Coding, I love to discuss trading ideas and charts related to financial markets or stocks. I might also bore you by talking about diet and nutrition. And I will always say "YES" whenever asked to play cricket or american-style eight ball pool.</p>
+Besides coding, I love discussing trading ideas and analyzing financial market charts. I might also bore you by talking about diet and nutrition. And I will always say "YES" whenever asked to play cricket or american-style eight ball pool.</p>
 
 <br />
 
