@@ -5,8 +5,7 @@ Besides coding, I love discussing trading ideas and analyzing financial market c
 
 <br />
 
-👨‍💻 Portfolio: [sahiljit.dev](https://sahiljit.dev/)
-
+👨‍💻 Portfolio: [sahiljit.app](https://sahiljit.vercel.app/)
 <br />
 
 <!-- - 🔭 I’m currently working on **some web app**
