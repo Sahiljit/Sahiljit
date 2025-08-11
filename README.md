@@ -7,7 +7,7 @@ Besides coding, I love discussing trading ideas and analyzing financial market c
 
 Co-founder: [Webcoin Technologies](https://webcoinhq.com)
 <br />
-Portfolio: [sahiljit.app](https://sahiljit.vercel.app/)
+Portfolio: [sahiljit.app](https://sahiljit.app/)
 <br />
 Buidling: [Echosol](https://echosol.org) | [Coinfeather](https://coinfeather.com)
 
