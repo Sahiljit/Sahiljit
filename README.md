@@ -19,12 +19,12 @@ Buidling: [Echosol](https://echosol.org) | [Coinfeather](https://coinfeather.com
 
 - ⚡ Fun fact **I love financial markets** -->
 
-<h4 align="left">Connect with me -</h4>
+<!-- <h4 align="left">Connect with me -</h4>
 <p align="left">
 <a href="https://twitter.com/SahiljitSandhu" target="_blank"><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="sandhu_sahiljit_twitter" height="30" width = "30" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sahiljit-sandhu/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahiljit_linkedin" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/sandhu_sahiljit/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandhu_sahiljit_instagram" height="30" width="30" /></a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 <br/>
 
