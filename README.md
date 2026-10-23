@@ -7,7 +7,7 @@ Besides coding, I love discussing trading ideas and analyzing financial market c
 
 Portfolio: [sahiljit.app](https://sahiljit.app/)
 <br />
-Buidling: [Echosol](https://echosol.org) | [Coinfeather](https://coinfeather.com)
+
 
 <!-- - 🔭 I’m currently working on **some web app**
 
